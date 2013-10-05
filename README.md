@@ -7,7 +7,7 @@ of the includet software for any military or any other war related use.
 Pleace comment and improve!
 
 
-
+----
 
 The FSLCU License (Free Software License for Civil Use)
 
