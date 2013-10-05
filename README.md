@@ -2,7 +2,7 @@ FSLCU
 =====
 
 Free Software License for Civil Use is a license that aims to prohibit a use
-of the includet software for any military or any other war related use.
+of the included software for any military or any somehow war related use.
 
 Pleace comment and improve!
 
