@@ -1,8 +1,8 @@
 FSLCU
 =====
 
-Free Software License for Civil Use is a license that aims to prohibit a use
-of the included software for any military or any somehow war related use.
+Free Software License for Civil Use is a license that aims to prohibit the use
+of the licensed software for any military or any somehow war related use.
 
 Please comment and improve!
 
@@ -13,18 +13,19 @@ The FSLCU License (Free Software License for Civil Use)
 
 Copyright (c) ``<year> <copyright holders>``
 
-Permission is hereby granted, free of charge, to any person, except personnel
-used by, in cooperation with, on behalf of, or paid for by: any armed forces,
-intelligence agencies, reconnaissance agencies, defense agencies, offense
-agencies or any supplier, contractor, research associated, obtaining a copy
+Permission is hereby granted, free of charge, to any person, obtaining a copy
 of this software and associated documentation files (the "software"), to deal
 in the software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the software, and to permit persons to whom the software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
+- The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
+
+- The person is not used by, in cooperation with, on behalf of, or paid for by any armed forces,
+intelligence agencies, reconnaissance agencies, defense agencies, offense
+agencies or any supplier, contractor, research associated.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
